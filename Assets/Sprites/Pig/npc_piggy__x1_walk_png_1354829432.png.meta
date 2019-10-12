@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 092cb51c1085b804c98deba18e0addca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2057401101351684160
+    second: npc_piggy__x1_walk_png_1354829432_0
+  - first:
+      213: -4713201156734535960
+    second: npc_piggy__x1_walk_png_1354829432_1
+  - first:
+      213: 6209408140583774939
+    second: npc_piggy__x1_walk_png_1354829432_2
+  - first:
+      213: 7713349407138510665
+    second: npc_piggy__x1_walk_png_1354829432_3
+  - first:
+      213: -6562525812534285269
+    second: npc_piggy__x1_walk_png_1354829432_4
+  - first:
+      213: 3462036200457147725
+    second: npc_piggy__x1_walk_png_1354829432_5
+  - first:
+      213: 2230210180059437829
+    second: npc_piggy__x1_walk_png_1354829432_6
+  - first:
+      213: -660369598909069764
+    second: npc_piggy__x1_walk_png_1354829432_7
+  - first:
+      213: -1568738658998328324
+    second: npc_piggy__x1_walk_png_1354829432_8
+  - first:
+      213: -8263642549552580984
+    second: npc_piggy__x1_walk_png_1354829432_9
+  - first:
+      213: -669682490976291760
+    second: npc_piggy__x1_walk_png_1354829432_10
+  - first:
+      213: 749456173346785171
+    second: npc_piggy__x1_walk_png_1354829432_11
+  - first:
+      213: 3699125497802616458
+    second: npc_piggy__x1_walk_png_1354829432_12
+  - first:
+      213: -3905455298586745008
+    second: npc_piggy__x1_walk_png_1354829432_13
+  - first:
+      213: 7285652110395663226
+    second: npc_piggy__x1_walk_png_1354829432_14
+  - first:
+      213: 1298013994127813390
+    second: npc_piggy__x1_walk_png_1354829432_15
+  - first:
+      213: 3477519545185816175
+    second: npc_piggy__x1_walk_png_1354829432_16
+  - first:
+      213: 1689395490058036589
+    second: npc_piggy__x1_walk_png_1354829432_17
+  - first:
+      213: 5513044493614363619
+    second: npc_piggy__x1_walk_png_1354829432_18
+  - first:
+      213: -7415000755549653625
+    second: npc_piggy__x1_walk_png_1354829432_19
+  - first:
+      213: 2805007136563714295
+    second: npc_piggy__x1_walk_png_1354829432_20
+  - first:
+      213: -371376257943406650
+    second: npc_piggy__x1_walk_png_1354829432_21
+  - first:
+      213: -6358764885617479541
+    second: npc_piggy__x1_walk_png_1354829432_22
+  - first:
+      213: -2733488944168833455
+    second: npc_piggy__x1_walk_png_1354829432_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6e4fb291a397479718c0b079c7423
+      internalID: 2057401101351684160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee270c9a9811845b3794312e9d209f
+      internalID: -4713201156734535960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f378709e5ec14999cc27834e322b1
+      internalID: 6209408140583774939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12114476968cecd46ac1b312062ee51c
+      internalID: 7713349407138510665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8faa9607875cc4f8afe773bb5648ec
+      internalID: -6562525812534285269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 125
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984172383fb94a428e826992f2cd716
+      internalID: 3462036200457147725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 126
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c151569390d914bb25806242c28754
+      internalID: 2230210180059437829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 126
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f8d88df69bcbf4dba49bde2bee5c63
+      internalID: -660369598909069764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a445c8e5c07dc44b96ac3b5bb342ed9
+      internalID: -1568738658998328324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ab8fd497234c409e4667b575a6100
+      internalID: -8263642549552580984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c28d2dd680ff645bfdaa3f6b8d088a
+      internalID: -669682490976291760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 64
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf597a8d659d0a428fb34d2272ce71e
+      internalID: 749456173346785171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ed466a2d087a4b85d6121dd181882
+      internalID: 3699125497802616458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 64
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5b2f008ef28a43898b9c65be50870
+      internalID: -3905455298586745008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba90786a16f804daa7171ee61f3ee6
+      internalID: 7285652110395663226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdefa7dd7bc2364ca40499bfe3405b8
+      internalID: 1298013994127813390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b8bd05422df9642b9b164bdbc7de80
+      internalID: 3477519545185816175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451cf5820f879224b9794666a0bda7c7
+      internalID: 1689395490058036589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f3b72b3e01044ebb2f0d76748cd0a
+      internalID: 5513044493614363619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfccacca3e9c2949825d4fe9ab1f961
+      internalID: -7415000755549653625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659cbcef636506438585e6238c9b5f6
+      internalID: 2805007136563714295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d72c340f75b7458adcc542199c04a
+      internalID: -371376257943406650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761901441718b0f448e5bc7ac19642ac
+      internalID: -6358764885617479541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_walk_png_1354829432_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412f5a8c8cb741499c601cedbb7d3e1
+      internalID: -2733488944168833455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6675b43b292ed244aa9f937930d04a78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
